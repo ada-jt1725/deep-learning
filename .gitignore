@@ -1,0 +1,11 @@
+*.png
+*.gif
+*.jpg
+*.jpeg
+*.pptx
+*.jfif
+*.webp
+*.csv
+_*.ipynb
+
+Asessment.ipynb
