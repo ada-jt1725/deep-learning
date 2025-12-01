@@ -7,5 +7,6 @@
 *.webp
 *.csv
 _*.ipynb
+.DS_Store
 
 Asessment.ipynb
